@@ -1,2 +1,2 @@
 stationId,observationTime,latitude,longitude,elevation,temp,dewpoint,windDirection,windSpeed_kmh,visibility,altim,qualityControlFlag,flightCategory,metarType
-EDDW,2018-06-19T14:50:00Z,53.03,8.8,5,22,14,290,18.52,6.21,30.177166,TRUE,VFR,METAR
+EDDW,2018-06-19T15:20:00Z,53.03,8.8,5,21,14,300,20.372,6.21,30.177166,TRUE,VFR,METAR
