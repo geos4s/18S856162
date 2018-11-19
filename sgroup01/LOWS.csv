@@ -1,2 +1,2 @@
 stationId,observationTime,latitude,longitude,elevation,temp,dewpoint,windDirection,windSpeed,visibility,altim,qualityControlFlag,flightCategory,metarType
-LOWS,2018-11-19T11:20:00Z,47.78,13.02,430,2,-1,60,12.964,6.21,29.822834,TRUE,MVFR,METAR
+LOWS,2018-11-19T11:50:00Z,47.78,13.02,430,2,-2,40,16.668,6.21,29.822834,TRUE,MVFR,METAR
